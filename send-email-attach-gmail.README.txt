@@ -1,0 +1,2 @@
+How to use:
+./send-email-attach-gmail.py <mail-subject> <path-to-attachment-file>
